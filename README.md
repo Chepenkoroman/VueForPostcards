@@ -1,5 +1,7 @@
 # vue_otrkitki
 
+# В данном репозитории нет файла node_modules
+
 ## Project setup
 ```
 npm install
